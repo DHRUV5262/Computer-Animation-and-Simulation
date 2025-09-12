@@ -1,0 +1,55 @@
+﻿  jello.cpp
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(38,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(38,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(38,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(66,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(66,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(66,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(67,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(67,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(67,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(68,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(68,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(68,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(69,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(69,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(69,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(184,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(184,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(184,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(185,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(185,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(185,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(186,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(186,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(186,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(187,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(187,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(187,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(188,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(188,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(188,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(189,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(189,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(189,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(190,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(190,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(190,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(191,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(191,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(191,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(195,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(195,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(195,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(196,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(196,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(196,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(197,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(197,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(198,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(198,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(241,10): warning C4101: 'cubemapTexture': unreferenced local variable
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(240,10): warning C4101: 'skyboxVAO': unreferenced local variable
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(240,21): warning C4101: 'skyboxVBO': unreferenced local variable
+D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\jello.cpp(265,7): warning C4101: 'i': unreferenced local variable
+  jello.vcxproj -> D:\CSCI520 COmputer Animation\Ass1\starter-csci520-assign1 (1)\starter-csci520-assign1\Bin\Debug\jello.exe
