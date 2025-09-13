@@ -29,8 +29,8 @@ Loads **ASF / AMC** skeletons and generates new motion by blending sparse keyfra
 ## 🚀 Quick Start
 
 clone
-git clone https://github.com/your-username/real-time-graphics-playground.git
-cd real-time-graphics-playground
+git clone 
+cd 
 
 build (Linux / macOS)
 cd build && cmake .. && make -j
