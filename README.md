@@ -69,3 +69,8 @@ Windows users: open the provided **Visual Studio 2022** solution and build the `
 * Building cross-platform OpenGL applications with CMake
 
 
+## Images
+
+![pic0039](https://github.com/user-attachments/assets/fbf3553b-c0c5-467f-895a-2c56082372a9)
+
+
