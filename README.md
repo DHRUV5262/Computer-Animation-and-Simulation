@@ -74,4 +74,5 @@ Windows users: open the provided **Visual Studio 2022** solution and build the `
 ![pic0039](https://github.com/user-attachments/assets/fbf3553b-c0c5-467f-895a-2c56082372a9)
 
 ![til](Motion Capture Interpolation/IDE-starter/VS2017/Videos/LinearQuaternion-ezgif.com-video-to-gif-converter.mp4)
+![Description of GIF](./IDE-starter/VS2017/Videos/LinearQuaternion-ezgif.com-video-to-gif-converter.mp4)
 
